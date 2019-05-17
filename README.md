@@ -4,4 +4,4 @@ A site which find the close meteorites locations using the NASA Site and python 
 this project requires python 3 and requests packages
 First install the pipenv, than:
 `pipenv install requests`
-`pipenv run python find_meteors.py`
+`pipenv run python meteors/find_meteors.py`
